@@ -34,14 +34,12 @@ After downloading, place the dataset inside your project folder:
 
 
 
-## ⚙️ Installation  
-```bash
-# Clone the repo
-git clone https://github.com/your-username/pneumonia-detection.git
-cd pneumonia-detection
+## ⚙️ Usage  
 
-# Install dependencies
-pip install -r requirements.txt
+You don’t need to install anything locally.  
+Simply open the notebook in **Google Colab** and run all cells.
 
-# Run the app
-python app.py
+1. Download this repository or clone it:
+   ```bash
+   git clone https://github.com/your-username/pneumonia-detection.git
+   cd pneumonia-detection
