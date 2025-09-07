@@ -24,9 +24,17 @@ It also includes a **Gradio interface** for easy predictions.
 - Gradio  
 
 ---
+## 📂 Dataset
+
+The project uses the **Chest X-ray Dataset** from Kaggle:
+
+🔗 [Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?resource=download)
+
+After downloading, place the dataset inside your project folder:
+
+
 
 ## ⚙️ Installation  
-
 ```bash
 # Clone the repo
 git clone https://github.com/your-username/pneumonia-detection.git
